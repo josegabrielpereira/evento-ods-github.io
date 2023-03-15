@@ -1,0 +1,147 @@
+body {   font-family: Verdana, Geneva, Tahoma, sans-serif; color: rgb(13, 14, 14); 
+background-color: rgb(255, 255, 255);
+}
+
+h1{
+    margin: center;
+    padding-left: 15%;
+}
+
+.nao{
+    margin: center;
+    padding-left: 30%;
+}
+
+.Stream{
+    margin: center;
+    padding-left: 43%;
+}
+
+img{
+    margin: center;
+    padding-left: 27%;
+}
+
+.palestrante{
+    margin: center;
+    padding-left: 38%;
+}
+
+.Contadorvisitas{
+    margin: center;
+    padding-left: 50%;
+}
+
+#counter{
+    margin: center;
+    padding-left: 10%;
+}
+
+.video1{
+
+    padding-left: 36%;
+}
+
+.video2{
+    padding: 80px 0% 15px ;
+    left: 50%;
+}
+
+.meio{
+    margin: center;
+    padding-left: 7%;
+}
+
+.video3{
+    position:absolute;
+    left:58%;
+    top:78%;
+    margin-left: 150px;
+    margin-top: 390px;
+}
+
+.video4{
+    position:absolute;
+    left:58%;
+    top:94%;
+    margin-left: 150px;
+    margin-top: 610px;
+    }
+
+.video5{
+    position:absolute;
+    left:58%;
+    top:135%;
+    margin-left: 150px;
+    margin-top: 630px;
+}
+
+.video05{
+    padding-top: 35px;
+}
+
+.video8{
+    position:absolute;
+    left:58%;
+    top:174%;
+    margin-left: 150px;
+    margin-top: 645px; 
+}
+
+
+.video10{
+    position:absolute;
+    left:58%;
+    top:213%;
+    margin-left: 150px;
+    margin-top: 638px; 
+}
+
+.video12{
+    position:absolute;
+    left:58%;
+    top:253%;
+    margin-left: 150px;
+    margin-top: 645px;  
+}
+
+.video14{
+    position:absolute;
+    left:58%;
+    top:292%;
+    margin-left: 150px;
+    margin-top: 649px; 
+}
+
+.video16{
+    position:absolute;
+    left:58%;
+    top:337%;
+    margin-left: 150px;
+    margin-top: 655px; 
+}
+
+.video17{
+    position:absolute;
+    left:26%;
+    top:338%;
+    margin-left: 150px;
+    margin-top: 1050px; 
+}
+
+.copy{
+    position:absolute;
+    left:32%;
+    top:338%;
+    margin-left: 150px;
+    margin-top: 1500px; 
+}
+
+#counter{
+    color: red;
+    position:absolute;
+    left:24%;
+    top:338%;
+    margin-left: 150px;
+    margin-top: 1480px;  
+}
